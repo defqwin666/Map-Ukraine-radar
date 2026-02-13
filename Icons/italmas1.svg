@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="g9"
+       transform="translate(67.516051,-21.818333)">
+      <path
+         id="path6"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m -42.258257,51.027083 c -4.935254,-0.02247 -9.546031,0.312404 -11.863281,1.3125 -0.989374,0.427 -1.568891,0.973193 -1.564454,1.667969 0.01773,2.77655 13.529528,2.715993 13.529528,2.715993 8.954045,0.064 29.982004,-1.240933 29.927504,-2.837087 -0.0172,-0.503906 -2.319905,-0.969962 -5.677735,-1.375 -7.278319,-0.877948 -19.53244,-1.46243 -24.351562,-1.484375 z" />
+      <path
+         d="m -27.785601,29.060286 c 0,0 -3.185096,11.437618 -4.707031,13.351562 -1.521935,1.913944 -21.621094,9.830079 -21.621094,9.830079 l -0.0078,0.09766 c 2.317253,-1.000097 6.928022,-1.334974 11.863281,-1.3125 4.819127,0.02194 17.073235,0.606426 24.351562,1.484375 0,0 -1.439345,-5.942341 -1.527356,-9.863285 -0.08801,-3.920944 1.470704,-13.470704 1.470704,-13.470704 z"
+         style="fill:#000000;fill-opacity:0.853474;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path5" />
+      <path
+         d="m -27.846163,78.605505 c 0,0 -3.018719,-11.687185 -4.707032,-13.351562 -1.688313,-1.664377 -21.621093,-9.830079 -21.621093,-9.830079 l -0.0078,-0.09766 c 2.317253,1.000097 6.928021,1.334974 11.86328,1.3125 4.819127,-0.02194 17.073236,-0.606426 24.351563,-1.484375 0,0 -1.439345,5.942341 -1.527356,9.863285 -0.08801,3.920944 1.470704,13.470704 1.470704,13.470704 z"
+         style="fill:#000000;fill-opacity:0.851964;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path5-2" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect7"
+         width="9.9826841"
+         height="0.70710677"
+         x="-27.823162"
+         y="29.06743" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect7-3"
+         width="9.9826841"
+         height="0.70710677"
+         x="-27.79273"
+         y="77.84977" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:1.333;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect8"
+         width="1.0588236"
+         height="12.235294"
+         x="-57.705883"
+         y="48.058823" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:0.967491;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect9"
+         width="3.4705884"
+         height="0.88235295"
+         x="-59.058823"
+         y="53.529411" />
+    </g>
+  </g>
+</svg>
